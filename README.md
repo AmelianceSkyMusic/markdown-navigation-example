@@ -1,3 +1,3 @@
-# markdown-navigation-example
+# CLICK HERE ￬
 
-- [Guitar. Techniques](.md)
+[Markdown Navigation Example](index.md)
